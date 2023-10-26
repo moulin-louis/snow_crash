@@ -1,0 +1,7 @@
+cdiiddwpgswtgt
+pasword: nottoohardhere 
+/usr/sbin/john
+find / -user flag00
+ceaser code
+cat /etc/passwd
+find / -type f | grep level00
