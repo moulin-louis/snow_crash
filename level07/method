@@ -1,1 +1,0 @@
-LOGNAME="\$(getflag)" ./level07

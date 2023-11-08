@@ -1,6 +1,0 @@
-#!/bin/bash
-whoami > /dev/stdout
-whoami > /tmp/out
-getflag > /tmp/out
-/usr/sbin/openarenaserver
-/var/mail/level05

