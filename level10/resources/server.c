@@ -38,6 +38,7 @@ int main(int argc, char **argv) {
     bzero(&buff, 4096);
     received = recv(new, buff, 4095, 0);
     write(1, buff, received);
-	close()
+	close(sockfd);
+    close(new);
     return (0);
 }
